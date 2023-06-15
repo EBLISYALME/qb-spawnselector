@@ -1,4 +1,4 @@
-<h1 align="center">RichPresence - RichPresence fivem </h1>
+<h1 align="center">    spawnselector -     spawnselector fivem </h1>
 <em><h5 align="center">(Programming Language - lua)</h5></em>
 
 ## Configuration
