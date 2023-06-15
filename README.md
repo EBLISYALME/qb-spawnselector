@@ -1,8 +1,6 @@
 <h1 align="center">RichPresence - RichPresence fivem </h1>
 <em><h5 align="center">(Programming Language - lua)</h5></em>
 
-## Installation
-
 ## Configuration
 ```
 
@@ -23,7 +21,7 @@ local spawns = {
 
 ## Issues ? 
  * [telegram](https://t.me/ATLAS_TEAMM)
- * [Issues Page](https://github.com/EBLISYALME/qb-gym/issues)
+ * [Issues Page](https://github.com/EBLISYALME/qb-spawnselector/issues)
 #### Like the project? Leave a star on the repository!
 
 ## Video Tutorial
